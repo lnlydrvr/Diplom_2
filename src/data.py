@@ -26,8 +26,8 @@ USER_DATA_NOT_UPDATED_DUE_EMAIL_MESSAGE = 'message":"User with such email alread
 
 # API - Заказы
 # URLы API для функциональности заказов
-CREATE_ORDER_URL = BASE_URL + 'api/orders'
-GET_ORDERS_URL = BASE_URL + 'api/orders'
+CREATE_ORDER_URL = BASE_URL + '/api/orders'
+GET_ORDERS_URL = BASE_URL + '/api/orders'
 
 # Системные сообщения для функциональности заказов
 # Создание заказа
